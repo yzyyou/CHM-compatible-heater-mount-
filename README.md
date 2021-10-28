@@ -3,8 +3,26 @@ CHM is some variety of open source 3d printer heater and extruder mounting solut
 
 The original files are available in these projects：
 https://github.com/VoronDesign/Voron-Afterburner 
+
 https://github.com/djcutch/JaredC01-Galileo
+
 https://github.com/VoronDesign/VoronUsers/tree/4854bd9ac1546c8bc4f1f1133f905a7cb69f4125/printer_mods/spacelab2021/Orbiter-Clockwork
+
 https://github.com/MirageC79/HextrudORT
 
+
 ![alt text](https://github.com/yzyyou/CHM-compatible-heater-mount-/blob/main/preview.jpg?raw=true)
+
+![alt text](https://https://github.com/yzyyou/CHM-compatible-heater-mount-/blob/main/Afterburner-Dragon.jpg?raw=true)
+
+![alt text](https://https://github.com/yzyyou/CHM-compatible-heater-mount-/blob/main/HextrudORT.jpg?raw=true)
+
+![alt text](https://https://github.com/yzyyou/CHM-compatible-heater-mount-/blob/main/BMG.jpg?raw=true)
+
+![alt text](https://https://github.com/yzyyou/CHM-compatible-heater-mount-/blob/main/Afterburner%2Bclockwork.jpg?raw=true)
+
+![alt text](https://https://github.com/yzyyou/CHM-compatible-heater-mount-/blob/main/Afterburner%2BGalileo.jpg?raw=true)
+
+![alt text](https://https://github.com/yzyyou/CHM-compatible-heater-mount-/blob/main/Afterburner%2BOrbiter1.5.jpg?raw=true)
+
+
